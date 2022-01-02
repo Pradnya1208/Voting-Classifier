@@ -14,7 +14,7 @@
 </div>
 
 # <div align="center">Titanic Voting Classifier</div>
-<div align="center">
+<div align="center"> </div>
   
 ## Objective:
 To predict survival on the Titanic and get familiar with ML basics.<br>
