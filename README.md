@@ -14,7 +14,9 @@
 </div>
 
 # <div align="center">Titanic Voting Classifier</div>
-<div align="center"> </div>
+<div align="center"> 
+<img src = "https://github.com/Pradnya1208/Voting-Classifier/blob/main/header-titanic-solar-storms-2048x984.jpg?raw=true" >
+</div>
   
 
 ## Objective:
