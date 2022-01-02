@@ -151,6 +151,7 @@ Accuracy: 0.8271
 
 ### Lessons Learned
 `Data Imputation`
+`Feature Engineering`
 `Classification algorithms`
 `Hyperparameter Tuning`
 `Voting Classifier`
